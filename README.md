@@ -1,4 +1,4 @@
-# Bluesky Scraping NATO Project
+# Bluesky Scraping NATO Project :compass:
 
 This project is dedicated to scraping posts containing the hashtag **#NATO** from the Bluesky socila network. It performs a first hand data analysis by collecting, processing, and visualizing posts in order to helps identify trends and popular hashtags in the online discourse surrounding NATO. Is is mostly an unstructured data analysis based on both words from the posts and from the hashtags commonly used with NATO's.
 
@@ -30,3 +30,11 @@ This project is dedicated to scraping posts containing the hashtag **#NATO** fro
   - [WordCloud](https://github.com/amueller/word_cloud) - Word cloud generation
   - [nltk](https://www.nltk.org/) - Natural language processing
   - [atproto](https://github.com/bluesky-social/atproto) - Bluesky API interaction
+
+ ---
+## Key takeways
+
+- **Statistics**:
+
+
+
