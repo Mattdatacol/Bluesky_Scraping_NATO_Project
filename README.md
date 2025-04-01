@@ -36,5 +36,6 @@ This project is dedicated to scraping posts containing the hashtag **#NATO** fro
 
 - **Statistics**:
 
-
-
+- **Word Cloud**:
+![word cloud from posts](Visualizations/Comments_wordcloud.png)
+Surrounding all NATO related posts, the main topics are about Trump, Ukraine, Russia and double agents.
