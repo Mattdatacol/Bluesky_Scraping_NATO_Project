@@ -58,10 +58,13 @@ This project is dedicated to scraping posts containing the hashtag **#NATO** fro
 
 > **Insights:** There is a peak of interest in NATO during the four days following the meeting between Zelensky and Trump on February 28th, with a 250% increase in daily posts using #NATO (rising from an average of about 200 to over 700). Bluesky posts are closely linked to daily news, reaffirming the role of social media in the spread of information.
 
-
  ---
 ## Further steps
 
 - **Broaden the range of the study**: Working around the API's limit by creating an automated scrape that could append every day all daily posts. To fetch more historical posts since Bluesky's creation (2019) shold be possible and needs to be investigated.
 
-- **Lead similar analysis from other social medias**:
+- **Lead similar analysis from other social medias**: Mostly X.com since it generates the biggest amount of followers to almost all politicians (given a paid access to their API)
+
+- **Create a geospatial analysis**: A map could show in a very effective way the origins of each tag and thus help understand located opinions.
+
+- **Build a social network graph**: All accounts using #NATO could be analysised in term of their relations to each other in order to show intertwined connections for some particular topics.
